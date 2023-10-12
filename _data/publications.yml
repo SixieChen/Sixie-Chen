@@ -3,20 +3,20 @@ main:
   - title: Ultrasensitive photodetectors based on WSe2/WS2 heterojunctions
     authors: <strong>Sixie Chen*</strong>, Yuang Luo (*Corresponding authors)
     conference_short: Nature
-    conference: Nature <strong>(Didn't submit yet)</strong>, 2024.
+    conference: Nature <strong>(Haven't submit yet)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     notes: Haven't Submit
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  - title: Flash memory chips based on WSe2/WS2 heterojunctions
+    authors: <strong>Sixie Chen*</strong>, Yuang Luo (*Corresponding authors)
+    conference_short: Science
+    conference:  Science <strong>(Haven't submit yet)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    notes: Haven't Submit
     image: ./assets/img/teaser_example.png
