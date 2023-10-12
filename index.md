@@ -8,15 +8,15 @@ I am a undergraduate student at Tsinghua University, major in Foundations of Mat
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Optoelectronic materials and devices:** Ultrasensitive photodetectors based on two dimensional material heterojunctions, Ultraviolet lasers emitters
+- **Spintronic materials and devices:** Memory chips based on magnetoelectronics, magnetoacoustic coupling
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Apr. 2024]** The project will end.
+- **[Oct. 2023]** "Ultrasensitive photodetectors based on two dimensional material heterojunctions" project is initiated by Sixie Chen.
+- **[Apri. 2023]** Sixie Chen jions NEXT"Next-generation Electronic X-integration Technology" lab.
+- **[Sept. 2022]** Sixie Chen jions Tsinghua University as an undergraduate student.
 
 {% include_relative _includes/publications.md %}
 
