@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student at Tsinghua University, major in Foundations of Mathematical Science and Material Science & Enjineering-double major. 
+I am an undergraduate student at Tsinghua University, major in Basic Science of Mathmetica & Physics and Material Science & Enjineering-double major. 
 
 ## Research Interests
 
