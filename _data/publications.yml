@@ -5,8 +5,6 @@ main:
     conference_short: In preparation
     conference: In preparation <strong>(Haven't submit yet)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Figure1.png
     notes: Haven't Submit
 
@@ -15,9 +13,7 @@ main:
     conference_short: In preparation
     conference:  In preparation <strong>(Haven't submit yet)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Haven't Submit
     image: ./assets/img/Figure2.png
 
@@ -26,9 +22,7 @@ main:
     conference_short: In preparation
     conference:  In preparation <strong>(Haven't submit yet)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Haven't Submit
     image: ./assets/img/Figure3.png
 
@@ -37,8 +31,6 @@ main:
     conference_short: In preparation
     conference:  In preparation <strong>(Haven't submit yet)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Haven't Submit
     image: ./assets/img/Figure4.png
