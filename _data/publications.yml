@@ -1,22 +1,44 @@
 main:
 
-  - title: Ultrasensitive photodetectors based on WSe2/WS2 heterojunctions
-    authors: <strong>Sixie Chen*</strong>, Yuang Luo (*Corresponding authors)
-    conference_short: Nature
-    conference: Nature <strong>(Haven't submit yet)</strong>, 2024.
+  - title: Mutielemental Alloy Decorated Electrode for Hydrogen Production via Water Electrolysis
+    authors: <strong>Wenle Yan</strong>, Min Xu*, Sixie Chen, Di Chen* (*Corresponding authors)
+    conference_short: In preparation
+    conference: In preparation <strong>(Haven't submit yet)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Figure2.png
+    image: ./assets/img/Figure1.png
     notes: Haven't Submit
 
-  - title: Flash memory chips based on WSe2/WS2 heterojunctions
+  - title: High temperature electrochemical reduction of carbon dioxide
     authors: <strong>Sixie Chen*</strong>, Yuang Luo (*Corresponding authors)
-    conference_short: Science
-    conference:  Science <strong>(Haven't submit yet)</strong>, 2024.
+    conference_short: In preparation
+    conference:  In preparation <strong>(Haven't submit yet)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Haven't Submit
-    image: ./assets/img/Figure1.png
+    image: ./assets/img/Figure2.png
+
+  - title: High-entropy strategy to boost SOFC cathode stability
+    authors: <strong>Sixie Chen</strong>, Zixiao Wang, Min Xu, Di Chen (*Corresponding authors)
+    conference_short: In preparation
+    conference:  In preparation <strong>(Haven't submit yet)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Haven't Submit
+    image: ./assets/img/Figure3.png
+
+  - title: Improvement of electrochemical performance of SOFC cathodes based on surface pH regulation
+    authors: <strong>Sixie Chen</strong>, Zixiao Wang, Min Xu*, Di Chen* (*Corresponding authors)
+    conference_short: In preparation
+    conference:  In preparation <strong>(Haven't submit yet)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Haven't Submit
+    image: ./assets/img/Figure4.png
