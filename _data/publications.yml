@@ -19,7 +19,7 @@ main:
     image: /assets/img/Figure6.png
 
   - title: High-entropy strategy to boost SOFC cathode stability
-    authors: <strong>Sixie Chen</strong>, Zixiao Wang, Min Xu, Di Chen (*Corresponding authors)
+    authors: <strong>Sixie Chen</strong>, Zixiao Wang, Min Xu*, Di Chen* (*Corresponding authors)
     conference_short: In preparation
     conference:  In preparation <strong>(Haven't submit yet)</strong>, 2024.
     pdf: https://sixiechen.github.io/tsinghua.edu/
