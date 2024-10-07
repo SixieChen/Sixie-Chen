@@ -5,7 +5,8 @@ main:
     conference_short: In preparation
     conference: In preparation <strong>(Haven't submit yet)</strong>, 2024.
     pdf: https://sixiechen.github.io/tsinghua.edu/
-    image: https://sixiechen.github.io/tsinghua.edu/
+    page: https://sixiechen.github.io/tsinghua.edu/
+    image: /assets/img/Figure6.png
     notes: Haven't Submit
 
   - title: High temperature electrochemical reduction of carbon dioxide
@@ -15,7 +16,7 @@ main:
     pdf: https://sixiechen.github.io/tsinghua.edu/
     page: https://sixiechen.github.io/tsinghua.edu/
     notes: Haven't Submit
-    image: ./assets/img/Figure6.png
+    image: /assets/img/Figure6.png
 
   - title: High-entropy strategy to boost SOFC cathode stability
     authors: <strong>Sixie Chen</strong>, Zixiao Wang, Min Xu, Di Chen (*Corresponding authors)
