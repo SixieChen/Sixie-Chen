@@ -8,9 +8,9 @@ I am an undergraduate student at Tsinghua University, major in Basic Science of 
 
 ## Research Interests
 
-- **Energy Storage Materials and Devices** 
-- **Electrochemistry Mechanism**
-- **Functional Oxide Films**
+- **Electrochemistry Mechanism & Energy Storage Devices** 
+- **Solid State Ionic & Ion-Insertion Devices**
+- **Functional Oxide films & Related External field response device**
 
 ## Awards
 
