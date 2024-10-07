@@ -8,8 +8,9 @@ I am an undergraduate student at Tsinghua University, major in Basic Science of 
 
 ## Research Interests
 
-- **Optoelectronic materials and devices:** Ultrasensitive photodetectors based on two dimensional material heterojunctions, Ultraviolet lasers emitters
-- **Spintronic materials and devices:** Memory chips based on magnetoelectronics, magnetoacoustic coupling
+- **Solid State Energy Storage Materials and Devices** 
+- **electrochemistry mechanism**
+- **Functional oxide films**
 
 ## Awards
 
@@ -18,6 +19,7 @@ I am an undergraduate student at Tsinghua University, major in Basic Science of 
 - **Social Practice Gold Medal** Sixie Chen led the team to participate in the social practice and won the highest award.
 - **Excellence Award** 3D printing design competition.
 - **outstanding students** the 39th summer school of Tsinghua University.
+
 {% include_relative _includes/publications.md %}
 
 ## News
