@@ -9,8 +9,8 @@ I am an undergraduate student at Tsinghua University, major in Basic Science of 
 ## Research Interests
 
 - **Solid State Energy Storage Materials and Devices** 
-- **electrochemistry mechanism**
-- **Functional oxide films**
+- **Electrochemistry Mechanism**
+- **Functional Oxide Films**
 
 ## Awards
 
@@ -18,7 +18,7 @@ I am an undergraduate student at Tsinghua University, major in Basic Science of 
 - **University-level third-prize:** Challenge Cup Competition for science and techonology exhibition. 
 - **Social Practice Gold Medal:** Sixie Chen led the team to participate in the social practice and won the highest award.
 - **Excellence Award:** 3D printing design competition.
-- **Outstanding students:** the 39th summer school of Tsinghua University.
+- **Outstanding Students:** the 39th summer school of Tsinghua University.
 
 {% include_relative _includes/publications.md %}
 
