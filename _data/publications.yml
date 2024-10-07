@@ -4,25 +4,25 @@ main:
     authors: <strong>Wenle Yan</strong>, Min Xu*, Sixie Chen, Di Chen* (*Corresponding authors)
     conference_short: In preparation
     conference: In preparation <strong>(Haven't submit yet)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    image: ./assets/img/Figure1.png
+    pdf: https://sixiechen.github.io/tsinghua.edu/
+    image: https://sixiechen.github.io/tsinghua.edu/
     notes: Haven't Submit
 
   - title: High temperature electrochemical reduction of carbon dioxide
     authors: <strong>Sixie Chen*</strong>, Yuang Luo (*Corresponding authors)
     conference_short: In preparation
     conference:  In preparation <strong>(Haven't submit yet)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://sixiechen.github.io/tsinghua.edu/
+    page: https://sixiechen.github.io/tsinghua.edu/
     notes: Haven't Submit
-    image: ./assets/img/Figure2.png
+    image: ./assets/img/Figure6.png
 
   - title: High-entropy strategy to boost SOFC cathode stability
     authors: <strong>Sixie Chen</strong>, Zixiao Wang, Min Xu, Di Chen (*Corresponding authors)
     conference_short: In preparation
     conference:  In preparation <strong>(Haven't submit yet)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://sixiechen.github.io/tsinghua.edu/
+    page: https://sixiechen.github.io/tsinghua.edu/
     notes: Haven't Submit
     image: ./assets/img/Figure3.png
 
@@ -30,7 +30,7 @@ main:
     authors: <strong>Sixie Chen</strong>, Zixiao Wang, Min Xu*, Di Chen* (*Corresponding authors)
     conference_short: In preparation
     conference:  In preparation <strong>(Haven't submit yet)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://sixiechen.github.io/tsinghua.edu/
+    page: https://sixiechen.github.io/tsinghua.edu/
     notes: Haven't Submit
     image: ./assets/img/Figure4.png
