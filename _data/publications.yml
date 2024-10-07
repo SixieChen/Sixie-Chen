@@ -1,7 +1,7 @@
 main:
 
   - title: Mutielemental Alloy Decorated Electrode for Hydrogen Production via Water Electrolysis
-    authors: <strong>Wenle Yan</strong>, Min Xu*, Sixie Chen, Di Chen* (*Corresponding authors)
+    authors: Wenle Yan, Min Xu*, <strong>Sixie Chen</strong>, Di Chen* (*Corresponding authors)
     conference_short: In preparation
     conference: In preparation <strong>(Haven't submit yet)</strong>, 2024.
     pdf: https://sixiechen.github.io/tsinghua.edu/
@@ -10,7 +10,7 @@ main:
     notes: Haven't Submit
 
   - title: High temperature electrochemical reduction of carbon dioxide
-    authors: <strong>Sixie Chen*</strong>, Yuang Luo (*Corresponding authors)
+    authors: Min Xu*, Yan Lin, Xi Chen, <strong>Sixie Chen*</strong>, Di Chen* (*Corresponding authors)
     conference_short: In preparation
     conference:  In preparation <strong>(Haven't submit yet)</strong>, 2024.
     pdf: https://sixiechen.github.io/tsinghua.edu/
