@@ -8,7 +8,7 @@
   <li><a href="https://www.tsinghua.edu.cn/xtw/adgfafg/xskjcxzx.htm"><autocolor>Group leader, Student Science and Technology Center, Tsinghua University, 2023-2024</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Other duties</h4>
+<h4 style="margin:0 10px 0;">Other Duties</h4>
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.tsinghua.edu.cn/xtw/info/1013/1109.htm"><autocolor>Teaching Assistant, Tsinghua University</autocolor></a></li>
