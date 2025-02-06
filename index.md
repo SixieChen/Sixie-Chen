@@ -17,6 +17,7 @@ I am an undergraduate student at Tsinghua University, major in Basic Science of 
 - **Awards for Science and technology Innovation Excellence**
 - **Awards for Social Work Excellence**
 - **Awards for Volunteer service Excellence**
+- **Bauhinia four-star volunteer**
 - **Excellent poster:** Tsinghua University academic promotion program.
 - **University-level third-prize:** Challenge Cup Competition for science and techonology exhibition. 
 - **Social Practice Gold Medal:** Sixie Chen led the team to participate in the social practice and won the highest award.
