@@ -12,4 +12,5 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.tsinghua.edu.cn/xtw/info/1013/1109.htm"><autocolor>Teaching Assistant, Tsinghua University</autocolor></a></li>
+  <li><a href="https://www.arts.tsinghua.edu.cn/info/1084/1492.htm"><autocolor>Violinist, Tsinghua University Symphony Orchestra </autocolor></a></li>
 </ul>
