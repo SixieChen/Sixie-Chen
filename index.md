@@ -28,12 +28,13 @@ I am an undergraduate student at Tsinghua University, major in Basic Science of 
 
 ## News
 
-- **[Jau. 2025]** Sixie Chen visited the North Carolina State Univerisity, advised by Professor Liming Xiong.
+- **[Jau. 2025]** Sixie Chen visits the North Carolina State Univerisity, advised by Professor, Liming Xiong.
+- **[Dec. 2024]** Sixie Chen become a formal member of the Communist Party of China. 
 - **[Oct. 2024]** Sixie Chen initiated the project funded by Beijing Natural Science Foundation Undergraduate Qiyan Plan, QY24235.
 - **[Apr. 2024]** The project presided over by Sixie Chen received the highest amount of funding at the university level.
-- **[Oct. 2023]** The poster of Sixie Chen won the most likes in Weiyang Science and technology exhibition.
-- **[Oct. 2023]** Sixie Chen jioned Future lab, advised by Professor, Di Chen and Researcher, Min Xu. 
-- **[Apri. 2023]** Sixie Chen jions NEXT"Next-generation Electronic X-integration Technology" lab.
+- **[Oct. 2023]** The poster of Sixie Chen wins the most likes in Weiyang Science and technology exhibition.
+- **[Oct. 2023]** Sixie Chen jions Future lab, advised by Professor, Di Chen and Researcher, Min Xu. 
+- **[Apri. 2023]** Sixie Chen jions NEXT"Next-generation Electronic X-integration Technology" lab, advised by Professor, Chen Wang.
 - **[Sept. 2022]** Sixie Chen jions Tsinghua University as an undergraduate student.
 
 {% include_relative _includes/services.md %}
